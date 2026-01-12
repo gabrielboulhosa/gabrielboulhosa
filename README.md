@@ -12,27 +12,13 @@ Sou estudante de Engenharia de Software, apaixonado por tecnologia e por resolve
 
 Tecnologias e Ferramentas:
 
-Front-end:
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-React.js
+Front-end: HTML5, CSS3, JavaScript (ES6+), React.js
 
 Projetos:
 
 Aqui no meu GitHub você encontrará:
 
-Projetos acadêmicos
-
-Aplicações web com HTML, CSS e JavaScript
-
-Projetos em React
-
-Exercícios práticos para fixação de conceitos
+Projetos acadêmicos, Aplicações web com HTML, CSS e JavaScript, Projetos em React, Exercícios práticos para fixação de conceitos
 
 Cada projeto representa uma etapa da minha evolução como desenvolvedor
 
