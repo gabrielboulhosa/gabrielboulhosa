@@ -6,13 +6,13 @@
 
 📍 Brasil
 
-🚀 Sobre mim
+Sobre mim
 
 Sou estudante de Engenharia de Software, apaixonado por tecnologia e por resolver problemas através da programação. Atualmente, estou focado em fortalecer meus conhecimentos em desenvolvimento web, explorando desde os fundamentos até conceitos mais avançados.
 
-🛠️ Tecnologias e Ferramentas
+Tecnologias e Ferramentas
 
-🌐 Front-end
+Front-end:
 
 HTML5
 
@@ -22,7 +22,7 @@ JavaScript (ES6+)
 
 React.js
 
-📂 Projetos
+Projetos
 
 Aqui no meu GitHub você encontrará:
 
@@ -34,8 +34,8 @@ Projetos em React
 
 Exercícios práticos para fixação de conceitos
 
-Cada projeto representa uma etapa da minha evolução como desenvolvedor 🚀
+Cada projeto representa uma etapa da minha evolução como desenvolvedor
 
-🎯 Objetivo
+Objetivo
 
 Meu objetivo é evoluir constantemente como desenvolvedor, adquirindo experiência prática e teórica para atuar profissionalmente na área de tecnologia, contribuindo com soluções eficientes e bem planejadas.
