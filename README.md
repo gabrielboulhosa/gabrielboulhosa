@@ -37,4 +37,5 @@ Exercícios práticos para fixação de conceitos
 Cada projeto representa uma etapa da minha evolução como desenvolvedor 🚀
 
 🎯 Objetivo
+
 Meu objetivo é evoluir constantemente como desenvolvedor, adquirindo experiência prática e teórica para atuar profissionalmente na área de tecnologia, contribuindo com soluções eficientes e bem planejadas.
