@@ -18,7 +18,7 @@ Projetos:
 
 Aqui no meu GitHub você encontrará:
 
-Projetos acadêmicos, Aplicações web com HTML, CSS e JavaScript, Projetos em React, Exercícios práticos para fixação de conceitos
+Projetos acadêmicos, Aplicações web com HTML, CSS e JavaScript, Projetos em React, Exercícios práticos para fixação de conceitos.
 
 Cada projeto representa uma etapa da minha evolução como desenvolvedor
 
