@@ -1,4 +1,4 @@
-👋 Olá, eu sou Gabriel Boulhosa
+👋 Olá, eu sou Gabriel
 
 🎓 Estudante de Engenharia de Software
 
@@ -13,8 +13,6 @@ Sou estudante de Engenharia de Software, apaixonado por tecnologia e por resolve
 Tecnologias e Ferramentas:
 
 Front-end: HTML5, CSS3, JavaScript (ES6+), React.js
-
-Projetos:
 
 Aqui no meu GitHub você encontrará:
 
